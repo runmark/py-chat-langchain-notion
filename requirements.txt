@@ -1,4 +1,5 @@
-langchain
+langchain==0.0.58
 openai
-unstructured
 faiss-cpu
+streamlit
+streamlit-chat
